@@ -1,5 +1,5 @@
 {
-  "name": "node-non-blocking-weather-lab",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "Weather App Lab",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git@github.com:learn-co-curriculum/node-non-blocking-weather-lab.git"
   },
   "author": "Azat Mardan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "git@github.com:learn-co-curriculum/node-non-blocking-weather-lab.git/issues"
   },
